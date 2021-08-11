@@ -6,6 +6,7 @@ Threader3000 is a script written in Python3 that allows multi-threaded port scan
 ## Requirements
 Python3 must be installed on your system in order to function
 Pip3 for installation via PyPi repository
+grc
 
 ## Installation
 **Installation via Pip**
@@ -22,7 +23,8 @@ threader3000
 **Install via Git**
 
 ```bash
-git clone https://github.com/dievus/threader3000.git #to save the program to your machine, or utilize the download option
+sudo apt install grc
+git clone https://github.com/JohnRyk/threader3000.git #to save the program to your machine, or utilize the download option
 ```
 
 You can add Threader3000 to run from any directory by adding a symbolic link:
