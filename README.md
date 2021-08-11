@@ -9,16 +9,6 @@ Pip3 for installation via PyPi repository
 grc
 
 ## Installation
-**Installation via Pip**
-
-```bash 
-pip3 install threader3000
-```
-
-Run by typing:
-```bash
-threader3000
-```
 
 **Install via Git**
 
