@@ -5,7 +5,7 @@ Threader3000 is a script written in Python3 that allows multi-threaded port scan
 
 ## Requirements
 Python3 must be installed on your system in order to function
-Pip3 for installation via PyPi repository
+Pip3 for installation via PyPi repository</br>
 grc
 
 ## Installation
